@@ -70,7 +70,7 @@ interface Star extends Point {
 
 const TRANSLATIONS = {
   en: {
-    title: "Tina Nova Defense",
+    title: "YIYI Interstellar Defense",
     score: "Score",
     ammo: "Ammo",
     win: "Mission Accomplished!",
@@ -84,7 +84,7 @@ const TRANSLATIONS = {
     waveCleared: "Wave Cleared!",
   },
   zh: {
-    title: "Tina新星防御",
+    title: "YIYI星际防御",
     score: "得分",
     ammo: "弹药",
     win: "任务完成！",
